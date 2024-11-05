@@ -1,3 +1,4 @@
 zmiana
 11
 2
+Zmiana logiczna
